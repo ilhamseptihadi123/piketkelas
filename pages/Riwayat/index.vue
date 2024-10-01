@@ -47,7 +47,7 @@ table, th, td {
 </style>
 
 <script setup>
-const supabase= useSupabseCLient()
+const supabase= useSupabaseCLient()
 
 const visitors = ref([])
 const jumlah = ref(0)
